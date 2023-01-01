@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "@nuxtjs/pwa": "^3.3.5"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
